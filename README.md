@@ -145,6 +145,6 @@ We may update this Privacy Policy from time to time. The "Last updated" date at 
 
 If you have any questions, requests, or concerns about this Privacy Policy or about how your data is handled, please contact us:
 
--**Email:** rosanalawer2002@gmail.com
+- **Email:** rosanalawer2002@gmail.com
 - **Developer:** MedSupport Gaza Team
 - **App:** MedSupport Gaza:** MedSupport Gaza
